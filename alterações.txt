@@ -1,0 +1,11 @@
+-> Controle de Retirada de Amostra
+-> Criar Laudos 
+-> Criar Servidor
+-> Criar Hierarquia de Usuários Ureas
+-> Colocar Idade em string
+-> Corrigir edição de aspirado medular e mielocultura
+
+27 anos -> 925.179,80
++ 6 anos -> 1.471.796,01
+SOBRA: 471.796,01
+
