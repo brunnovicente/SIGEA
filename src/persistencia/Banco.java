@@ -55,7 +55,7 @@ public class Banco {
      * Conecta a classe ao banco de dados
      */
     public void abrirInstancia(){
-       factory = Persistence.createEntityManagerFactory("sigea");
+       factory = Persistence.createEntityManagerFactory("banco.accdb");
        em = factory.createEntityManager();
    }
    
